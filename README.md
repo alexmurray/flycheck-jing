@@ -12,7 +12,7 @@ Assumes [rnc-mode](https://github.com/TreeRex/rnc-mode) is installed.
 
 ## Installation
 
-### MELPA
+### MELPA (coming soon...)
 
 The preferred way to install `flycheck-jing` is via
 [MELPA](http://melpa.org) - then you can just <kbd>M-x package-install RET
