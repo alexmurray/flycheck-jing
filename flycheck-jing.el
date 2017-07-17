@@ -42,7 +42,7 @@
   "A checker using jing.
 
 See `https://github.com/alexmurray/jing/'."
-  :command ("jing" "-c" source)
+  :command ("jing" "-c" source-inplace)
   :error-patterns ((error line-start (file-name) ":" line ":" column ": error: " (message) line-end))
   :modes rnc-mode)
 
